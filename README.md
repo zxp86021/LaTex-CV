@@ -1,3 +1,3 @@
 # LaTex-CV
 
-My CV build with Latex
+My CV build with LaTex
